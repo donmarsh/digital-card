@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital-card/static/css/main.798668cf.css",
+    "main.js": "/digital-card/static/js/main.18f66428.js",
+    "static/js/787.dccfdb93.chunk.js": "/digital-card/static/js/787.dccfdb93.chunk.js",
+    "static/media/profile.png": "/digital-card/static/media/profile.165c866aca7c73f04887.png",
+    "static/media/instagram.svg": "/digital-card/static/media/instagram.2de74e23723c7d2c0ff127d864fcc769.svg",
+    "static/media/github.svg": "/digital-card/static/media/github.a374e035e52b791190a78ce2be6f1ad7.svg",
+    "static/media/twitter.svg": "/digital-card/static/media/twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/facebook.svg": "/digital-card/static/media/facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "index.html": "/digital-card/index.html",
+    "main.798668cf.css.map": "/digital-card/static/css/main.798668cf.css.map",
+    "main.18f66428.js.map": "/digital-card/static/js/main.18f66428.js.map",
+    "787.dccfdb93.chunk.js.map": "/digital-card/static/js/787.dccfdb93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.798668cf.css",
+    "static/js/main.18f66428.js"
+  ]
+}
