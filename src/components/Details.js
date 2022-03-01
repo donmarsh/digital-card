@@ -5,8 +5,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Details() {
     return(
         <main>
-            <p className="name">Laura Smith</p>
-            <p className="role">Frontend Developer</p>
+            <p className="name">Marshall Musyimi</p>
+            <p className="role">FullStack Developer</p>
             <p className="website">laurasmith.website</p>
             <div className = "contacts">
                 <div className="email"><FontAwesomeIcon icon={faEnvelope} />&nbsp;Email</div>
