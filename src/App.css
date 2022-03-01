@@ -1,11 +1,10 @@
 .App {
   text-align: center;
+  background-color: 1A1B21;
+  border-radius: 5px;
+  align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +34,129 @@
   to {
     transform: rotate(360deg);
   }
+}
+.footer
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: #1A1B21;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 317px;
+  margin: auto;
+  
+}
+.footer > img
+{
+  margin: 5px;
+  
+}
+.profile
+{
+  width: 317px;
+  height: 317px;
+}
+main{
+  text-align: center;
+  background-color: #1A1B21;
+  width: 247px;
+  margin: auto;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+
+}
+
+.interests,.about{
+  text-align: left;
+  padding: 5px;
+}
+.title
+{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 150%;
+}
+.body{
+  text-align: left;
+  color: white;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+
+.contacts{
+  display: flex;
+  justify-content: space-around;
+}
+.email{
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  margin: 10px;
+  height: 34px;
+  vertical-align: middle;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+
+}
+
+.linkedin{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  margin: 10px;
+  height: 34px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+
+}
+p{
+  color: white;
+} 
+
+.role{
+  color: #F3BF99;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+}
+.website{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  text-align: center;
+}
+.name{
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
 }
